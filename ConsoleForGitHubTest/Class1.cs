@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleForGitHubTest
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-
-            // putting stuff here
-        }
     }
 }
